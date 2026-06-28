@@ -1,0 +1,486 @@
+canonical_identifier: bkk:krp/KR1j0018/v1
+canonical_location: https://kanripo.org/bkk/KR1j0018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 說文解字
+  identifiers:
+    krp: KR1j0018
+  tags:
+    kr-categories: KR1j
+    tls-internal:
+    - tr-fr
+    - tr-en
+    - swl
+    - tr-zh
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0018.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: krp
+- short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR1j0018_001.yaml, hash: 'sha256:3c25b057f544e7a570577a9ee672b2f7d16a4af38aa21ab3907ec39a734e3036'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1j0018_001.markers.yaml, hash: 'sha256:3d4bfbbfdeadb12af516479e49bb7b5e7201d50659f27dbc6f10761b2f4ab86a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0002a.1
+    span:
+    - body
+    - 0
+    - 6
+  label: 說文解字標目
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0003a.1
+    span:
+    - body
+    - 6
+    - 72
+  label: 說文解字弟一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0004a.1
+    span:
+    - body
+    - 72
+    - 208
+  label: 說文解字弟二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0005a.1
+    span:
+    - body
+    - 208
+    - 433
+  label: 說文解字弟三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0006a.1
+    span:
+    - body
+    - 433
+    - 629
+  label: 說文解字弟四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0007a.1
+    span:
+    - body
+    - 629
+    - 904
+  label: 說文解字弟五
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0008a.1
+    span:
+    - body
+    - 904
+    - 1017
+  label: 說文解字弟六
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0009a.1
+    span:
+    - body
+    - 1017
+    - 1255
+  label: 說文解字弟七
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0010a.1
+    span:
+    - body
+    - 1255
+    - 1415
+  label: 說文解字弟八
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0011a.1
+    span:
+    - body
+    - 1415
+    - 1614
+  label: 說文解字弟九
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0012a.1
+    span:
+    - body
+    - 1614
+    - 1802
+  label: 說文解字弟十
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0013a.1
+    span:
+    - body
+    - 1802
+    - 1901
+  label: 說文解字弟十一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0014a.1
+    span:
+    - body
+    - 1901
+    - 2061
+  label: 說文解字弟十二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0015a.1
+    span:
+    - body
+    - 2061
+    - 2165
+  label: 說文解字弟十三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0016a.1
+    span:
+    - body
+    - 2165
+    - 2426
+  label: 說文解字弟十四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0017a.1
+    span:
+    - body
+    - 2426
+    - 7614
+  label: 說文解字弟一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0018a.1
+    span:
+    - body
+    - 7614
+    - 15443
+  label: 說文解字弟一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0019a.1
+    span:
+    - body
+    - 15443
+    - 22420
+  label: 說文解字弟二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0020a.1
+    span:
+    - body
+    - 22420
+    - 28463
+  label: 說文解字弟二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0021a.1
+    span:
+    - body
+    - 28463
+    - 35624
+  label: 說文解字弟三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0022a.1
+    span:
+    - body
+    - 35624
+    - 42346
+  label: 說文解字弟三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0023a.1
+    span:
+    - body
+    - 42346
+    - 50619
+  label: 說文解字弟四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0024a.1
+    span:
+    - body
+    - 50619
+    - 57810
+  label: 說文解字弟四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0025a.1
+    span:
+    - body
+    - 57810
+    - 64618
+  label: 說文解字弟五
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0026a.1
+    span:
+    - body
+    - 64618
+    - 69958
+  label: 說文解字弟五
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0027a.1
+    span:
+    - body
+    - 69958
+    - 79920
+  label: 說文解字弟六
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0028a.1
+    span:
+    - body
+    - 79920
+    - 86574
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0029a.1
+    span:
+    - body
+    - 86574
+    - 95148
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0030a.1
+    span:
+    - body
+    - 95148
+    - 104698
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0031a.1
+    span:
+    - body
+    - 104698
+    - 114733
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0032a.1
+    span:
+    - body
+    - 114733
+    - 118651
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0033a.1
+    span:
+    - body
+    - 118651
+    - 123550
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0034a.1
+    span:
+    - body
+    - 123550
+    - 129198
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0035a.1
+    span:
+    - body
+    - 129198
+    - 137546
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0036a.1
+    span:
+    - body
+    - 137546
+    - 144600
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0037a.1
+    span:
+    - body
+    - 144600
+    - 154820
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0038a.1
+    span:
+    - body
+    - 154820
+    - 159825
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0039a.1
+    span:
+    - body
+    - 159825
+    - 167927
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0040a.1
+    span:
+    - body
+    - 167927
+    - 176921
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0041a.1
+    span:
+    - body
+    - 176921
+    - 183744
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0042a.1
+    span:
+    - body
+    - 183744
+    - 190995
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0043a.1
+    span:
+    - body
+    - 190995
+    - 198579
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0044a.1
+    span:
+    - body
+    - 198579
+    - 205868
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0045a.1
+    span:
+    - body
+    - 205868
+    - 210243
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1j0018_tls_001-h0046a.1
+    span:
+    - body
+    - 210243
+    - 213052
+  label: 下
+  type: section
+  level: 1
+hash: sha256:fd4da342eabd982dfef7fc351dc3cfc1abe0545119b270e32b3cec045fbdbcc8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
