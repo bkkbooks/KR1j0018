@@ -26,9 +26,9 @@ editions:
 - short: tls
 assets:
   parts:
-  - {seq: 1, filename: KR1j0018_001.yaml, hash: 'sha256:3c25b057f544e7a570577a9ee672b2f7d16a4af38aa21ab3907ec39a734e3036'}
+  - {seq: 1, filename: KR1j0018_001.yaml, hash: 'sha256:e0567361ece00b91ac2cb5efe411c8a0d425e9cf81d449928daa1f400bd43599'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0018_001.markers.yaml, hash: 'sha256:3d4bfbbfdeadb12af516479e49bb7b5e7201d50659f27dbc6f10761b2f4ab86a'}
+  - {seq: 1, role: markers, filename: assets/KR1j0018_001.markers.yaml, hash: 'sha256:c078fad43dcb176b957504a1d385a5dff6e1d59e9002d11c544ae6b0330d9f4a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -480,7 +480,4 @@ table_of_contents:
   label: 下
   type: section
   level: 1
-hash: sha256:fd4da342eabd982dfef7fc351dc3cfc1abe0545119b270e32b3cec045fbdbcc8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0dc42c1d510c70e7920dcbea99766a7d67ab11d8b138ecb9ca438e4912912b21
